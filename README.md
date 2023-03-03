@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5F0F4E&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f5af0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5F0F4E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Antonio+Marlilson)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7f5af0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Antonio+Marlilson)](https://git.io/typing-svg)
 
 ### 👨‍💻 Sobre mim
 
@@ -9,8 +9,8 @@
 - Adoro criar projetos pessoais que me ajudam a melhorar minhas habilidades.
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AntonioMarlilson&show_icons=true&count_private=true&hide_border=true&title_color=5F0F4E&icon_color=6F2DA8&text_color=5F0F4E&bg_color=0d1117" alt="Antonio Marlilson github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMarlilson&layout=compact&hide_border=true&title_color=5F0F4E&icon_color=6F2DA8&text_color=5F0F4E&bg_color=0d1117" alt="Most Used Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AntonioMarlilson&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=c9d1d9&text_color=7f5af0&bg_color=0d1117" alt="Antonio Marlilson github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMarlilson&layout=compact&hide_border=true&title_color=ffffff&icon_color=c9d1d9&text_color=7f5af0&bg_color=0d1117" alt="Most Used Languages" />
 
 </div>
 
@@ -36,4 +36,4 @@
 
 ## 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5F0F4E&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f5af0&height=120&section=footer"/>
