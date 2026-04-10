@@ -4,8 +4,8 @@
 
 ### 👨‍💻 Sobre mim
 
-- Atualmente estou estudando ciência da computação na Universidade Federal de Aracati a IFCE.
-- Apaixonado por desenvolvimento front-end.
+- Sou formado em ciência da computação na Universidade Federal de Aracati a IFCE.
+- Apaixonado por desenvolvimento front-end e back-end.
 - Adoro criar projetos pessoais que me ajudam a melhorar minhas habilidades.
 
 <div align="center">  
