@@ -8,11 +8,6 @@
 - Apaixonado por desenvolvimento front-end e back-end.
 - Adoro criar projetos pessoais que me ajudam a melhorar minhas habilidades.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AntonioMarlilson&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=c9d1d9&text_color=7f5af0&bg_color=0d1117" alt="Antonio Marlilson github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMarlilson&layout=compact&hide_border=true&title_color=ffffff&icon_color=c9d1d9&text_color=7f5af0&bg_color=0d1117" alt="Most Used Languages" />
-</div>
-
 ## 
 
 ### 🌟 Habilidades
